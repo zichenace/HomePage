@@ -93,7 +93,8 @@ h1,h2,h3,h4 {
 }
 
 .photo-bg {
-    background-image: url("https://bu.dusays.com/2022/07/22/62da218792f99.png");
+    /* 图片数据源更新于：20221008 */
+    background-image: url("https://bu.dusays.com/2022/10/08/6340e41fc4561.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
