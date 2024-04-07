@@ -7,8 +7,8 @@ body {
     font-size: 18px;
     color: #6c767d;
     background-color: #ebf1f5;
-    /* 使用ZiChen ACG API / 使用的域名获得授权 */
-    background-image: url("https://app.zichen.zone/api/acg-pro.php");
+    /* 使用ZiChen ACG API */
+    background-image: url("https://app.zichen.zone/api/acg.php");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
